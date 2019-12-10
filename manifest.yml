@@ -1,3 +1,4 @@
 ---
 applications:
   - name: GREEN_hello_world
+    random route: true
